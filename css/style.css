@@ -18,6 +18,10 @@ html {
 
 body {
   margin: 0;
+  background-color: LightGray;
+}
+div{
+  border: 1px solid Chocolate;
 }
 
 /* HTML5 display definitions
